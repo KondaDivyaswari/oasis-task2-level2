@@ -1,0 +1,140 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/*font-family: 'Amita', serif;*/
+/*Niconne*/
+/*Rye*/
+/*font-family: 'Amita', serif;
+font-family: 'Rye', serif;*/
+/*font-family: 'Amita', serif;
+font-family: 'Niconne', cursive;
+font-family: 'Rye', serif;*/
+
+
+
+
+.image h1{
+    margin-top: 20%;
+    font-size: 50px;
+    font-family: 'Amita', serif;
+    font-family : 'Rye', serif;
+    margin-left: 465px;
+    color: #23d4dd;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 4px 4px #0a0a0a;
+    
+}
+
+
+
+.image h4{
+    margin-top: 1%;
+    font-size: 35px;
+    font-family: 'Amita', serif;
+    font-family : 'Rye', serif;
+    margin-left: 635px;
+    color: #23d4dd;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 3px 3px #100f0f;
+}
+
+/*
+.desc p{
+    
+    font-size: 25px;
+    font-family: 'Amita', serif;
+    font-family: 'Niconne', cursive;
+    font-family: 'Rye', serif;
+    margin-left: 150px;
+    color: rgb(24, 23, 23);
+}
+
+
+*/
+
+
+.image-text{
+    position:absolute;
+    top: 110%;
+    color: #23d4dd;
+    margin-top: 20%;
+    margin-left: 5%;
+    font-family: 'Niconne', cursive; 
+    font-size: 60px;
+
+}
+
+.quo p{
+    color: brown;
+    margin-left: 550px;
+    font-size: 33px;
+    font-family: 'Niconne', cursive;
+
+}
+
+
+
+
+
+
+.image img{
+    height: 720px;
+    width: 1490px;
+    margin-top: 30%;
+    /*margin-left: 90px;*/
+    
+}
+
+.info h2{
+    margin-top: 32px;
+    margin-left: 580px;
+    font-family: 'Niconne', cursive;
+    font-size: 60px;
+    color: #35b7c1;
+    text-decoration: underline;
+    text-shadow:3px 3px #121111;
+    
+}
+
+
+
+.info p{
+    margin-top: 20px;
+    margin-left: 140px;
+    margin-right: 140px;
+    font-size: 25px;
+    padding: 10px 10px;
+    font-style: normal;
+    font-weight: 140;
+    color: #000000;
+}
+
+
+.quote p{
+    font-size: 38px;
+    margin-left: 550px;
+    padding: 10px 10px;
+    margin-bottom: 20px;
+    font-family: 'Niconne', cursive;
+    color: brown
+}
+
+.info span{
+    color: #000000;
+    font: 1em sans-serif;
+}
+
+
+#com{
+    margin-left: 45%;
+    font-size: 20px;
+    margin-top: 20px;
+    
+
+}
+
